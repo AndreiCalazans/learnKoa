@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "koa": "^2.4.1"
+  },
+  "name": "learnKoa",
+  "version": "0.0.1",
+  "description": "Learn koa",
+  "main": "index.js",
+  "repository": "https://github.com/AndreiCalazans/learnKoa.git",
+  "author": "AndreiCalazans <andreixoc@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.59.0"
+  },
+  "scripts": {
+    "start": "babel index.js"
+  }
+}
